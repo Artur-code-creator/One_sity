@@ -1,0 +1,11 @@
+table {
+	color: yellow
+}
+
+[href="#idev"] {
+	color: orange;
+}
+
+[href="https://ya.ru"]{
+	color: pink
+}
